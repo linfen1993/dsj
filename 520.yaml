@@ -21,3 +21,4 @@ proxies:
   - {"type":"vmess","name":"🇹🇼 IPLC-V226-台湾-1x-NF&Disney&动画疯*","server":"wnptw.thecxfcsp.top","port":20008,"uuid":"fb3c4dbd-9936-3e26-b815-a0c94147282b","alterId":0,"cipher":"auto","network":"tcp","tls":false,"skip-cert-verify":false}
   - {"type":"trojan","name":"dmit 洛杉矶","server":"dmit.mdfg2288.gq","port":443,"password":"hcj9180","udp":true,"skip-cert-verify":true,"sni":"dmit.mdfg2288.gq"}
 
+
