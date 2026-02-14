@@ -1,0 +1,5 @@
+proxies:
+  - {"type":"trojan","name":"dmit 洛杉矶","server":"dmit.mdfg2288.gq","port":443,"password":"hcj9180","udp":true,"skip-cert-verify":true,"sni":"dmit.mdfg2288.gq"}
+
+
+
